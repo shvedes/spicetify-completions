@@ -1,1 +1,8 @@
-Spicetify completions for Fish shell
+# Spicetify completions for Fish shell
+
+## Installation 
+
+```
+fisher install shvedes/spicetify-completions
+```
+
